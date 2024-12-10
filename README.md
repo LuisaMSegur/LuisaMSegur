@@ -26,7 +26,7 @@
 
 Si quieres contactarme para hablar sobre colaboración en proyectos o simplemente decir "hola":
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/luisamariaseguro/
 
 Correo electrónico: luisamariaseguro@gmail.com
 
