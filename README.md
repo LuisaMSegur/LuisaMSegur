@@ -1,4 +1,5 @@
-# ¡Hola! Soy Luisa Maria Seguro 👋
+# ¡Hola! Soy Luisa 👋
+![17339156427586508573678610582297](https://github.com/user-attachments/assets/b1d0e1df-04b8-4066-b191-369d4b6f0f6b)
 
 ¡Bienvenidos a mi perfil! Soy desarrolladora y me encanta todo lo relacionado con nuevas tecnologias, inteligencia artificial y las artes visuales. Aquí comparto proyectos, ideas y lo que he aprendido en mi camino profesional.
 
