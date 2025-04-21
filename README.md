@@ -6,7 +6,7 @@
 ## 🌱 Sobre mí
 
 🌍 Nacionalidad: Colombiana, viviendo en Chile
-📚Actualmente estudiando Desarrollo Web en TripleTen
+📚Estudié Desarrollo Web en TripleTen
 ⚡ Amo el diseño y el arte, por eso mi camino es el Front-end
 
 
@@ -19,7 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
+
 
 ### 💬 ¿Hablamos?
 
@@ -29,7 +32,9 @@ LinkedIn: https://www.linkedin.com/in/luisamariaseguro/
 
 Correo electrónico: luisamariaseguro@gmail.com
 
+### Ver Portafolio
 
+https://portafolio-mu-jade.vercel.app/
 
 ### 🎉 Gracias por visitar mi perfil
 
